@@ -5,6 +5,7 @@ const App = () => {
     <div>
 
       <h1>hello world</h1>
+      <p>javoh ravno gavno</p>
     </div>
     
   )
