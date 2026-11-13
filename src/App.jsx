@@ -5,6 +5,9 @@ const App = () => {
     <div>
 
       <h1>hello world</h1>
+      <p>
+        Akbar
+      </p>
     </div>
     
   )
