@@ -1,13 +1,12 @@
 import React from 'react'
+import Section from './Components/Section'
 
 const App = () => {
   return (
     <div>
+      <Section/>
 
-      <h1>hello world</h1>
-
-
-      <p>yusuf</p>
+      
     </div>
     
   )
