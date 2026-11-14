@@ -1,15 +1,10 @@
 import React from 'react'
+import Clients from './Components/Clients'
 
 const App = () => {
   return (
     <div>
-
-      <h1>hello world</h1>
-      <p>Ibrohim</p>
-      <h1>hello world</h1>  
-
-
-      
+      <Clients />
     </div>
 
   )
