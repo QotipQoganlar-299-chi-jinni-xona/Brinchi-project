@@ -1,10 +1,11 @@
 import React from 'react'
+import MainM from './Componets/MainM'
 
 const App = () => {
   return (
     <div>
+      <MainM/>
 
-      <h1>hello world</h1>
     </div>
     
   )
