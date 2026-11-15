@@ -1,18 +1,15 @@
 import React from 'react'
-
+import Footer from './Components/Footer.jsx'
 const App = () => {
   return (
     <div>
 
-      <h1>hello world</h1>
+
+      
+      <Footer/>
 
 
 
-
-
-
-
-      <p>emir</p>
     </div>
     
   )
