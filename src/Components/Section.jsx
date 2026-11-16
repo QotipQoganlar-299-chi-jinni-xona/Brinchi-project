@@ -19,7 +19,7 @@ const Section = () => {
 
 
                         <img className='mt-[100px] mr-[180px]' src={kofe} alt="" />
-                        <h2 className='text-white w-[210px] font-bold text-[20px]'>Web Design and Development</h2>
+                        <h2 className='text-white w-[210px] font-bold text-[20px]'>Web Design and Developmeent</h2>
                     </div>
                     <div className="w-[304px] h-[400px] bg-cover bg-center flex flex-col flex-wrap items-center justify-center gap-[25px]" style={{ backgroundImage: `url(${techno})` }}>
 
