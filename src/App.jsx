@@ -10,11 +10,10 @@ const App = () => {
     <div>
       <Header />
       <Clients />
-      <Section/>
-      <MainQ/>
-      <MainM/>
+      <Section />
+      <MainQ />
+      <MainM />
     </div>
-
   )
 }
 
