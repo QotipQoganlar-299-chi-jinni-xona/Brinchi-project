@@ -1,14 +1,11 @@
-import React from 'react'
+import Values from "./Values";
 
-const App = () => {
+function App() {
   return (
-    <div>
-
-      <h1>hello world</h1>
-      <p>ertan emirhan ustoz</p>
-    </div>
-    
-  )
+    <>
+      <Values />
+    </>
+  );
 }
 
-export default App
+export default App;
