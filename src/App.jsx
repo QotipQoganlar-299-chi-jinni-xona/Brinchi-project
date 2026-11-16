@@ -11,13 +11,8 @@ const App = () => {
       <Header />
       <Clients />
       <Section/>
-
-
       <MainQ/>
-
-      
       <MainM/>
-
     </div>
 
   )
